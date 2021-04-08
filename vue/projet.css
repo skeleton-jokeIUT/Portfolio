@@ -1,0 +1,40 @@
+section section{
+
+ display: inline-block;
+
+}
+
+p{
+	
+	text-align: center;
+	font-size: 1.5em
+}
+
+h1{
+
+	font-size: 2em;
+}
+
+img{
+
+	width: 700px;
+	height: 400px;
+}
+
+.Titre{
+
+	font-size: 4em;
+
+}
+
+#vitrine{
+
+
+
+}
+
+ #php{
+
+ 	margin-left: 3%
+
+ }

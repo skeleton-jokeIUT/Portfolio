@@ -1,5 +1,44 @@
 body{
 	background-color: rgb(12,44,49);
+	color: white;	
+}
+
+h1{
+	
+	text-align: center;
+}
+
+h2{
+	
+	color : rgb(118,178,186);
+}
+
+a {
+	text-decoration: none;
+	
+}
+
+
+a:link {
 	color: white;
-		
+
+
+}
+
+a:visited {
+	text-decoration: none;
+	color: white;
+}
+
+a:focus {
+	text-decoration: overline;
+	color : black;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:active {
+
 }
