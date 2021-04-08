@@ -1,0 +1,132 @@
+body{
+	background-color: rgb(12,44,49);
+	color: white;
+	
+
+	
+}
+
+section{
+	
+	width: 45%;
+	padding-bottom: 0.5em;
+	}
+
+section p{
+	margin-left: 5%;
+	margin-top: 2em;
+
+}
+
+
+ul {
+
+	
+	width: 50%;
+	margin-left: 5%;
+	list-style: none;
+	
+}
+
+li:before{
+	content: '-';
+}
+
+h1{
+	
+	text-align: center;
+}
+
+h2{
+	
+	color : rgb(118,178,186);
+	margin: 5%;
+	font-size: 1.3em;
+	
+}
+
+#CV{
+	
+	width: 130px;
+	height: 130px;
+	
+	border-radius: 10em;
+	border-width: 0.5em;
+	border-color: rgb(118,178,186);
+}
+
+#intro{
+	text-align: center;
+	
+}
+
+
+
+#intro p{
+
+	margin-left: 0em;
+}
+
+.Ecole{
+	position: absolute;
+	left: 50%;
+	top :10%;
+	background-color: rgb(21,85,94); 		
+}
+
+#autre{
+
+	width: 20%
+}
+
+#autre p{
+	margin-top: 0em;
+}
+
+#autre img{
+
+	margin-left: 5%;
+
+}
+
+#geo{
+	
+	width: 20%;
+	position: absolute;
+	top :145%;
+	left: 15%;
+	
+}
+
+#geo p{
+
+		margin-top: 1em;
+}
+
+#loisir{
+	margin-top: 7%;
+	width: 20%	
+}
+
+.Pro{
+	
+	position: absolute;
+	left: 50%;
+	top :75%;
+	margin-top: 1em;
+	background-color: rgb(21,85,94); 
+	
+
+}
+
+.Pro ul{
+
+	width: 80%;
+	margin-left: 0%
+}
+
+.fondDiff{
+
+	background-color: rgb(21,85,94); 
+	margin-top: 2em;
+}
