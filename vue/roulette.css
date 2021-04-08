@@ -1,6 +1,15 @@
 div {
 
 	display: inline-block;
-	width: 10%;
+	width: 45%;
+	border-style: solid;
+	text-align: center;
+
+}
+
+img {
+
+	width: 600px;
+	height : 300px;
 
 }
