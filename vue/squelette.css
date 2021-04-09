@@ -12,12 +12,12 @@ body{
 #header{
 
 	position: absolute;
-
-}
+	right: 1%
+	}
 
 #header img{
 
-	margin-left: 6%;
+
 	height: 130px;
 	width : 130px;
 	border-radius: 10em;
@@ -28,7 +28,7 @@ body{
 h1{
 	
 	text-align: center;
-	
+
 }
 
 h2{
