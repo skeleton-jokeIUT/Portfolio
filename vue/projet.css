@@ -4,6 +4,14 @@ section section{
 
 }
 
+a:link{
+	color: white
+}
+
+a:visited{
+	color: white
+}
+
 p{
 
 	text-align: center;
