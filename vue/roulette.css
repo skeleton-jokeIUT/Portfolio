@@ -21,6 +21,20 @@ img {
 	
 }
 
+a{
+	font-size: 1.3em;
+}
+
+a:link{
+	color: white
+	
+}
+
+a:visited{
+	color: white;
+	
+}
+
 .FondDiff{
 
 	background-color: rgb(21,85,94); 
